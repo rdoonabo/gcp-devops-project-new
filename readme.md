@@ -1,1 +1,4 @@
-# this is my first git repo task.
+# Docker Flask Application
+
+- This application written in Python. 
+- it shall be deployed on GKE.
